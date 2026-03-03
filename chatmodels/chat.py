@@ -2,11 +2,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from langchain.chat_models import init_chat_model
+from langchain_mistralai import ChatMistralAI
 
-model = init_chat_model("groq:llama-3.1-8b-instant")
+model = ChatMistralAI(model = "mistral-small-2506",temperature=0.9)
 
-# print(model)
-response = model.invoke("what is GEnAI?")
+response = model.invoke("write a poem on AI")
 
 print(response.content)
