@@ -1,0 +1,66 @@
+User Profile Notes Generated on: 2026-03-18 09:53:24
+
+1.  Basic Information:
+
+-   Name: Md Sonu (from account data)
+-   Location: India (estimated Bihar region)
+
+2.  Professional Background:
+
+-   Software Engineer
+-   Tutor (teaches or explains concepts to others)
+
+3.  Technical Interests & Skills:
+
+-   Interested in MERN stack (MongoDB, Express, React, Node.js)
+-   Works with JavaScript and backend systems
+-   Learning and building AI-based tools and agents
+
+4.  Current Projects:
+
+-   Building a LinkedIn automation AI agent
+    -   Takes LinkedIn profile URL
+    -   Analyzes profile
+    -   Generates personalized connection messages
+    -   Uses automation tools like Selenium or Playwright
+
+5.  Learning Focus:
+
+-   Backend development (Node.js, FastAPI, Flask)
+-   Authentication systems (JWT, OAuth issues)
+-   Databases (PostgreSQL)
+-   AI/LLM integrations (LangChain, Groq models)
+-   Debugging real-world errors
+
+6.  Problem-Solving Pattern:
+
+-   Frequently asks about errors and debugging
+-   Prefers practical examples and step-by-step explanations
+-   Works hands-on with code and experiments actively
+
+7.  Communication Style:
+
+-   Mix of Hindi + English (Hinglish)
+-   Direct and concise questions
+-   Focused on understanding concepts clearly
+
+8.  Academic / Teaching Behavior:
+
+-   Solves math problems and explains logic
+-   Interested in first-principles understanding
+
+9.  Tools & Technologies Used:
+
+-   Python, Node.js
+-   FastAPI, Flask, Express
+-   LangChain, Groq
+-   Git & GitHub basics
+
+10. Goals (Inferred):
+
+-   Become strong full-stack developer
+-   Build real-world AI-powered applications
+-   Improve debugging and system design skills
+
+Note: This file contains only non-sensitive, high-level information
+inferred from conversations.
