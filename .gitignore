@@ -5,6 +5,9 @@
 venv/
 env/
 
+test_mcp.py
+test_mcp2.py
+
 # ----------------------
 # Environment Variables
 # ----------------------
